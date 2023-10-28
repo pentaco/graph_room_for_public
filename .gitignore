@@ -1,0 +1,6 @@
+.env
+docker/db
+docker/phpmyadmin
+docker/.DS_Store
+src/.DS_Store
+.DS_Store
