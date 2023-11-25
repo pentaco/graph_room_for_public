@@ -127,10 +127,8 @@ https://www.php.net/manual/ja/function.substr.php
 CPU 使用率を上げるとおとなしくなった
 
 # メンテナンスモード
+例
 ```
 php artisan down --render="errors::maintenance" --secret="dd72a4c43515"
 ```
 *dd72a4c43515は任意の文字列　/dd72a4c43515でアクセスが可能
-
-https://dcheck.app/dd72a4c43515
-
